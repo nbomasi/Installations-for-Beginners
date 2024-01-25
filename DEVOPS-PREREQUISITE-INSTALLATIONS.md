@@ -38,7 +38,7 @@ This comprehensive installation guide is meticulously crafted to equip students 
 
 * **Download download vscode:** Go to [visual studo code website](https://code.visualstudio.com/)
 
-![vscode-web-page](Snipaste_2024-01-25_14-23-57.png)
+![vscode-web-page](Images/vscode-webpage.png)
 
 * On the web page, click "Download for Windows," if you are using windows system.
 
@@ -53,7 +53,7 @@ This comprehensive installation guide is meticulously crafted to equip students 
 
 If your installation is successful, it will have the following look after launching: It might be slightly different, but does not matter.
 
-![visual-studio-code](Visual-Studio-code.png)
+![visual-studio-code](Images/Visual-Studio-code.png)
 
 2. **macOS Instalation:**
 
@@ -69,6 +69,6 @@ If your installation is successful, it will have the following look after launch
 
 If your installation is successful, it will have the following look after launching: It might be slightly different, but does not matter.
 
-![visual-studio-code](Visual-Studio-code.png)
+![visual-studio-code](Images/Visual-Studio-code.png)!
 
 
