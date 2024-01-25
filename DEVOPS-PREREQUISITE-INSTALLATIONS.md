@@ -32,9 +32,9 @@ This comprehensive installation guide is meticulously crafted to equip students 
 
 ## INSTALLATIONS 
 
-### Visual Studio Code (VScode)
+## Visual Studio Code (VScode)
 
-1. **Windows Instalation:**
+**1. Windows Instalation:**
 
 * **Download download vscode:** Go to [visual studo code website](https://code.visualstudio.com/)
 
@@ -55,7 +55,7 @@ If your installation is successful, it will have the following look after launch
 
 ![visual-studio-code](Images/Visual-Studio-code.png)
 
-2. **macOS Instalation:**
+**2. macOS Instalation:**
 
 * **Download download vscode:** Go to [visual studo code website](https://code.visualstudio.com/)
 
@@ -72,9 +72,9 @@ If your installation is successful, it will have the following look after launch
 ![visual-studio-code](Images/Visual-Studio-code.png)!
 
 
-### Git
+## Git
 
-1. **Windows Instalation:**
+**1. Windows Instalation:**
 
 * **Download Git:** Go to [Git website for windows](https://git-scm.com/download/win)
 
@@ -95,27 +95,27 @@ If your installation is successful, it will have the following look after launch
 
 ![Git-bash](Images/Gitbash.png)
 
-2. **macOS Instalation:**
+**2. macOS Instalation:**
 
-    * *** **Installation with homebrew (terminal)** ***
+* *** **Installation with homebrew (terminal)** ***
 
-    * **Install Homebrew:** Open Terminal, type the following and press "ENTER": 
+* **Install Homebrew:** Open Terminal, type the following and press "ENTER": 
 
     ```/bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/HEAD/install.sh)"```
 
-    **Note:** If homebrew is already installed, please ignore above step
+**Note:** If homebrew is already installed, please ignore above step
 
-    * **Git Installation:** In your terminal type the following command and press "ENTER":
+* **Git Installation:** In your terminal type the following command and press "ENTER":
 
     ```brew install git```
 
-    * **Launch Git:** Open Terminal and type git --version and press Enter to verify that Git has been installed.
+* **Launch Git:** Open Terminal and type git --version and press Enter to verify that Git has been installed.
 
-    If your installation is successful, it will have the following look after launching: It might be slightly different, but does not matter.
+If your installation is successful, it will have the following look after launching: It might be slightly different, but does not matter.
 
-    ![Gitbash-macOS](Images/Git-bash-macOS.png)
+![Gitbash-macOS](Images/Git-bash-macOS.png)
 
-    **Note:** Other methods to install Git on macOS can be found [here](https://git-scm.com/download/mac)
+**Note:** Other methods to install Git on macOS can be found [here](https://git-scm.com/download/mac)
 
 
 
