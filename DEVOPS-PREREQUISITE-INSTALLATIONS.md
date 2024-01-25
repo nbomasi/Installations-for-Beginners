@@ -1,7 +1,7 @@
 
-Darey.io - Pre-requisites, Installation Guide for Instructors and Students 
+# Darey.io - Pre-requisites, Installation Guide for Instructors and Students 
 
-Introduction 
+**Introduction**
 
 This comprehensive installation guide is meticulously crafted to equip students enrolled in a suite of DevOps courses with all the necessary tools and resources. The guide provides detailed instructions for installing essential software such as Git, Visual Studio Code (VScode), virtual box, etc, alongside necessary accounts creation like AWS and GitHub. Each section is carefully linked to official sources for downloads and account setups, ensuring both ease of access and security. 
 
