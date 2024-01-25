@@ -72,3 +72,55 @@ If your installation is successful, it will have the following look after launch
 ![visual-studio-code](Images/Visual-Studio-code.png)!
 
 
+### Git
+
+1. **Windows Instalation:**
+
+* **Download Git:** Go to [Git website for windows](https://git-scm.com/download/win)
+
+* On the web page, Click "Download" to download the Git installer for Windows.
+
+![Git-webpage](Images/git-webpage-windows.png)
+
+* **Run Installer:** Locate the downloaded .exe file, Double-click to run the installer.
+
+
+* **Options to check if prompted:** "Use Git from the Windows Command Prompt." "Use the OpenSSL library." "Checkout as-is, commit as-is." "Use Windows' default console window."
+
+* **Install:** Lastly, click install to complete the installation. When installation is complete click FINISH to complete the installation.
+
+* **Launch Git:** Open from Start Menu or use the desktop shortcut or better still, just type "git" on windows app search.
+
+If your installation is successful, it will have the following look after launching: It might be slightly different, but does not matter.
+
+![Git-bash](Images/Gitbash.png)
+
+2. **macOS Instalation:**
+
+    * *** **Installation with homebrew (terminal)** ***
+
+    * **Install Homebrew:** Open Terminal, type the following and press "ENTER": 
+
+    ```/bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/HEAD/install.sh)"```
+
+    **Note:** If homebrew is already installed, please ignore above step
+
+    * **Git Installation:** In your terminal type the following command and press "ENTER":
+
+    ```brew install git```
+
+    * **Launch Git:** Open Terminal and type git --version and press Enter to verify that Git has been installed.
+
+    If your installation is successful, it will have the following look after launching: It might be slightly different, but does not matter.
+
+    ![Gitbash-macOS](Images/Git-bash-macOS.png)
+
+    **Note:** Other methods to install Git on macOS can be found [here](https://git-scm.com/download/mac)
+
+
+
+
+
+
+    
+    
