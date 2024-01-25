@@ -30,6 +30,7 @@ This comprehensive installation guide is meticulously crafted to equip students 
 
 2. Amazon Web Services (AWS) Account.
 
+
 ## INSTALLATIONS 
 
 ## Visual Studio Code (VScode)
@@ -54,6 +55,7 @@ This comprehensive installation guide is meticulously crafted to equip students 
 If your installation is successful, it will have the following look after launching: It might be slightly different, but does not matter.
 
 ![visual-studio-code](Images/Visual-Studio-code.png)
+
 
 **2. macOS Instalation:**
 
@@ -84,7 +86,6 @@ If your installation is successful, it will have the following look after launch
 
 * **Run Installer:** Locate the downloaded .exe file, Double-click to run the installer.
 
-
 * **Options to check if prompted:** "Use Git from the Windows Command Prompt." "Use the OpenSSL library." "Checkout as-is, commit as-is." "Use Windows' default console window."
 
 * **Install:** Lastly, click install to complete the installation. When installation is complete click FINISH to complete the installation.
@@ -95,9 +96,10 @@ If your installation is successful, it will have the following look after launch
 
 ![Git-bash](Images/Gitbash.png)
 
-**2. macOS Instalation:**
 
-* *** **Installation with homebrew (terminal)** ***
+
+* *** **Installation with homebrew (terminal)** *****2. macOS Instalation:**
+
 
 * **Install Homebrew:** Open Terminal, type the following and press "ENTER": 
 
@@ -115,7 +117,124 @@ If your installation is successful, it will have the following look after launch
 
 ![Gitbash-macOS](Images/Git-bash-macOS.png)
 
+
 **Note:** Other methods to install Git on macOS can be found [here](https://git-scm.com/download/mac)
+
+
+## Virtual Box
+
+**1. Windows Instalation:**
+
+* **Download Virtual box:** Go to [Oracle virtual box website](https://www.virtualbox.org/)
+
+![Windows-webpage](Images/vb-webpage-windows.png)
+
+* On the web page, Click "Downloads" and select the Windows host version.
+
+* **Run Installer:** Locate the downloaded .exe file, double-click to run the installer..
+
+* **Wizard:** Click "Next" through the installation wizard. Click next to all the remaining prompt, leave every option to "default".
+
+* **Install Virtual box:** Lastly, click install to complete the installation. When installation is complete click FINISH to complete the installation.
+
+* **Lauching Virtual box:** Open from Start Menu or use the desktop shortcut or better still, just type viscode on windows app search.
+
+If your installation is successful, it will have the following look after launching: It might be slightly different, but does not matter.
+
+![Virtual-box-Windows](Images/Virtual-box.png)
+
+**2. macOS Instalation:**
+
+* **Download Virtual box:** Go to [Oracle virtual box website](https://www.virtualbox.org/)
+
+* On the web page, Click "Downloads" and select the macOS host version.
+
+![macOS-webpage](Images/vb-webpag-mac.png)
+
+* **Run Installer:** Locate the downloaded .dmg file (usually in your Downloads folder), double-click to open the VirtualBox installer.
+
+* **Install Virtual box:** Double-click on the package file inside the .dmg, follow the on-screen instructions to complete the installation.
+
+* **Security warning:** If you see a security warning, click "Open" to proceed with the installation.
+
+* **System Preferences:** Open System Preferences and go to Security & Privacy, Click the lock icon to make changes and enter your password.
+Allow the Oracle Corporation system software to load.
+
+* **Lauching Virtual box:** Open VirtualBox from the Applications folder or Launchpad.
+
+If your installation is successful, it will have the following look after launching: It might be slightly different, but does not matter.
+
+![Virtual-box-mac](Images/Virtual-box-macOS.png)
+
+
+Download:
+
+Visit https://www.virtualbox.org/.
+Click "Downloads" and select the macOS host version.
+Run Installer:
+
+Locate the downloaded .dmg file (usually in your Downloads folder).
+Double-click to open the VirtualBox installer.
+Install VirtualBox:
+
+Double-click on the package file inside the .dmg.
+Follow the on-screen instructions to complete the installation.
+Security Warning (if prompted):
+
+If you see a security warning, click "Open" to proceed with the installation.
+Finish Installation:
+
+Wait for the installation to complete.
+Close the installer.
+System Preferences:
+
+Open System Preferences and go to Security & Privacy.
+Click the lock icon to make changes and enter your password.
+Allow the Oracle Corporation system software to load.
+Run VirtualBox:
+
+Open VirtualBox from the Applications folder or Launchpad.
+
+
+
+
+
+Download:
+
+Go to https://www.virtualbox.org/.
+Click "Downloads" and select the Windows host version.
+Run Installer:
+
+Locate the downloaded .exe file.
+Double-click to run the installer.
+Wizard:
+
+Click "Next" through the installation wizard.
+Components:
+
+Choose components to install (default settings are usually fine).
+Location:
+
+Select the installation location or use the default. Click "Next."
+Shortcuts:
+
+Choose Start Menu shortcuts and desktop icons. Click "Next."
+Networking:
+
+Optionally, enable or disable networking features. Click "Next."
+Virtual USB Support:
+
+Optionally, enable or disable USB support. Click "Next."
+Installation:
+
+Click "Install" to start the installation.
+Completing the Setup:
+
+Wait for the installation to complete.
+Click "Finish."
+Run VirtualBox:
+
+Open VirtualBox from the Start Menu or desktop icon.
 
 
 
