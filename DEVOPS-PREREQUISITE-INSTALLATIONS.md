@@ -219,22 +219,3 @@ If your installation is successful, it will have the following look after launch
 
 
 
-Set the location and size for the virtual hard disk.
-Ensure sufficient space for the Ubuntu installation.
-Mount Ubuntu ISO:
-
-With the new virtual machine selected, click on "Settings."
-Go to "Storage," select the empty disk under "Controller: IDE," and click the disk icon next to "Optical Drive."
-Choose "Choose a disk file" and select the downloaded Ubuntu ISO.
-Start the Virtual Machine:
-
-Click "Start" with the virtual machine selected.
-Follow the on-screen instructions to install Ubuntu.
-Install Ubuntu:
-
-Choose language and click "Install Ubuntu."
-Follow the installation wizard, configuring options such as time zone, keyboard layout, and user account.
-Complete Installation:
-
-Once installation completes, click "Restart Now."
-After reboot, you may need to press Enter to boot from the virtual hard disk.
