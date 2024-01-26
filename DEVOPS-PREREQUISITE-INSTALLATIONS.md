@@ -217,5 +217,38 @@ If your installation is successful, it will have the following look after launch
 ![Ubuntu-Login](Images/Ubuntu-loginpage.png)
 
 
+## ACCOUNTS TO BE CREATED
+
+Please note that account creation has nothing to do with the type of OS that you use, since you are dealing with third-party website
+
+## Github account
+
+
+* **Visit the GitHub Website:** Open your web browser and go to [GitHub's website.](https://github.com/)
+
+![Github-website](Images/Github-sign-up.png)
+
+* **Sign Up:** On the GitHub homepage, you will find a "Sign up" button. Click on it.
+
+* **Enter Your Information:** Fill out the required information on the Sign up page. This typically includes your username, email address, and password. Choose a strong and secure password.
+
+* **Verify Your Email:** After entering your information, GitHub will ask you to verify your email address. Check your email inbox for a verification message from GitHub and click on the verification link.
+
+* **Complete the CAPTCHA:** GitHub may ask you to complete a CAPTCHA to ensure that you are not a robot. Follow the instructions to prove you're a human.
+
+* **Choose a Plan:** GitHub offers free plans for public repositories and paid plans for private repositories. Choose the plan that best suits your needs. For beginners, the free plan is usually sufficient.
+
+
+* **Tailor Your Experience (Optional):** GitHub may ask you to answer a few questions to tailor your experience. You can choose to answer them or skip this step. GitHub may ask you to answer a few questions to tailor your experience. You can choose to answer them or skip this step.
+
+
+* **Welcome to GitHub:** Once you've completed the above steps, you should be redirected to your new GitHub account. Congratulations! You now have a GitHub account.
+
+* **Explore GitHub:** Take some time to explore the GitHub platform. Familiarize yourself with the interface, and you can start by creating a new repository if you have a project in mind.
+
+![Github-webpage](Images/Github-page.png)
+
+2. Amazon Web Services (AWS) Account.
+
 
 
