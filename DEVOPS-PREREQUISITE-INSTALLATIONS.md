@@ -217,6 +217,13 @@ If your installation is successful, it will have the following look after launch
 ![Ubuntu-Login](Images/Ubuntu-loginpage.png)
 
 
+### Possible Error you may encounter and Link to resolution youtube video:
+
+* **When virtualizaton is not enabled:** [click here](https://www.youtube.com/watch?v=MOuTxfzCvMY)
+
+* **C++ redistributable error:** [click here](https://www.youtube.com/watch?v=xKTKgjUHu48&amp;pp=ygU6b3JhY2xlIHZtIHZpcnR1YWwgYm94IDcuMC4xMiBuZWVkcyB0aGUgbWljcm9zb2Z0IHZpcnR1YWwgYw%3D%3D)
+
+
 ## ACCOUNTS TO BE CREATED
 
 Please note that account creation has nothing to do with the type of OS that you use, since you are dealing with third-party website
