@@ -248,7 +248,41 @@ Please note that account creation has nothing to do with the type of OS that you
 
 ![Github-webpage](Images/Github-page.png)
 
-2. Amazon Web Services (AWS) Account.
+
+## Amazon Web Services (AWS) Account 
+
+* **Visit the AWS Free Tier page:** Go to the AWS Free Tier page at [AWS website](https://aws.amazon.com/free/) to learn about the services available in the free tier and to start the signup process.
+
+![AWS-Account-page](Images/AWS-account.png)
+
+* **Click "Create an AWS Account":** On the AWS Free Tier page, click on the "Create an AWS Account" button.
+
+Sign in or Create a new Amazon account:
+If you already have an Amazon account, you can sign in. If not, you'll need to create a new one.
+
+* **Provide account information:** Fill in the necessary account information, including your contact information and payment details. Note that you'll be required to provide valid credit card information, even though you won't be charged unless you exceed the free tier limits. You will be require to have a minimum of 1 usd in your card
+
+**Note**: Please note that if you are from Africa country, **virtual dollar cards** will serve you better. Most regular card will not work
+
+* **Verify your identity:** Follow the steps to verify your identity. This may involve receiving a phone call or entering a verification code sent to your email or phone.
+
+* **Choose a support plan:** AWS offers a free support plan, but you can choose to upgrade to a paid plan if you prefer. For the free tier, the basic support plan is usually sufficient.
+
+* **Enter payment information:** As part of the account setup, you'll need to enter valid credit card information. AWS uses this for identity verification and to prevent abuse of the free tier resources.
+
+* **Review and confirm:** mReview the information you provided, read the terms and conditions, and confirm your agreement.
+
+* **Wait for approval:** It might take a short while for your account to be approved. Once approved, you'll receive a confirmation email.
+
+* **Access the AWS Management Console:** After receiving confirmation, log in to the AWS Management Console using your new account credentials.
+
+* **Explore the AWS Free Tier services:** AWS offers a variety of services within the free tier, including EC2 (Elastic Compute Cloud), S3 (Simple Storage Service), and more. Make sure to explore and understand the limitations of each service within the free tier.
+
+![AWS-login](Images/AWS-login-page.png)
+
+
+![AWS-console](Images/AWS-console.png)
+
 
 
 
